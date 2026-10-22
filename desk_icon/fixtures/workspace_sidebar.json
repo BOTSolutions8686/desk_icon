@@ -1,0 +1,95 @@
+[
+ {
+  "app": null,
+  "docstatus": 0,
+  "doctype": "Workspace Sidebar",
+  "for_user": null,
+  "header_icon": null,
+  "items": [
+   {
+    "child": 0,
+    "collapsible": 1,
+    "filters": null,
+    "icon": null,
+    "indent": 0,
+    "keep_closed": 0,
+    "label": "Home",
+    "link_to": "Contract",
+    "link_type": "DocType",
+    "navigate_to_tab": null,
+    "route_options": null,
+    "show_arrow": 0,
+    "type": "Link",
+    "url": null
+   }
+  ],
+  "modified": "2026-10-22 10:17:17.229451",
+  "module": "CRM",
+  "module_onboarding": null,
+  "name": "Marketing",
+  "standard": 0,
+  "title": "Marketing"
+ },
+ {
+  "app": "desk_icon",
+  "docstatus": 0,
+  "doctype": "Workspace Sidebar",
+  "for_user": null,
+  "header_icon": null,
+  "items": [
+   {
+    "child": 0,
+    "collapsible": 1,
+    "filters": null,
+    "icon": null,
+    "indent": 0,
+    "keep_closed": 0,
+    "label": "home",
+    "link_to": "Contract",
+    "link_type": "DocType",
+    "navigate_to_tab": null,
+    "route_options": null,
+    "show_arrow": 0,
+    "type": "Link",
+    "url": null
+   }
+  ],
+  "modified": "2026-10-22 10:32:56.972329",
+  "module": "CRM",
+  "module_onboarding": null,
+  "name": "Contract",
+  "standard": 1,
+  "title": "Contract"
+ },
+ {
+  "app": null,
+  "docstatus": 0,
+  "doctype": "Workspace Sidebar",
+  "for_user": null,
+  "header_icon": null,
+  "items": [
+   {
+    "child": 0,
+    "collapsible": 1,
+    "filters": null,
+    "icon": null,
+    "indent": 0,
+    "keep_closed": 0,
+    "label": "Home",
+    "link_to": "Contract",
+    "link_type": "DocType",
+    "navigate_to_tab": null,
+    "route_options": null,
+    "show_arrow": 0,
+    "type": "Link",
+    "url": null
+   }
+  ],
+  "modified": "2026-10-22 10:19:26.946772",
+  "module": "CRM",
+  "module_onboarding": null,
+  "name": "Social Media",
+  "standard": 0,
+  "title": "Social Media"
+ }
+]
