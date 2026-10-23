@@ -1,6 +1,6 @@
 [
  {
-  "app": null,
+  "app": "desk_icon",
   "docstatus": 0,
   "doctype": "Workspace Sidebar",
   "for_user": null,
@@ -44,7 +44,7 @@
     "icon": null,
     "indent": 0,
     "keep_closed": 0,
-    "label": "home",
+    "label": "Home",
     "link_to": "Contract",
     "link_type": "DocType",
     "navigate_to_tab": null,
@@ -54,15 +54,15 @@
     "url": null
    }
   ],
-  "modified": "2026-10-22 10:32:56.972329",
+  "modified": "2026-10-23 15:11:58.390564",
   "module": "CRM",
   "module_onboarding": null,
   "name": "Contract",
-  "standard": 1,
+  "standard": 0,
   "title": "Contract"
  },
  {
-  "app": null,
+  "app": "desk_icon",
   "docstatus": 0,
   "doctype": "Workspace Sidebar",
   "for_user": null,

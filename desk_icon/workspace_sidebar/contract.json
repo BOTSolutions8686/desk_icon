@@ -1,0 +1,27 @@
+{
+ "app": "desk_icon",
+ "creation": "2026-10-23 14:45:29.893136",
+ "docstatus": 0,
+ "doctype": "Workspace Sidebar",
+ "idx": 0,
+ "items": [
+  {
+   "child": 0,
+   "collapsible": 1,
+   "indent": 0,
+   "keep_closed": 0,
+   "label": "Home",
+   "link_to": "Contract",
+   "link_type": "DocType",
+   "show_arrow": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-10-23 15:11:58.390564",
+ "modified_by": "Administrator",
+ "module": "CRM",
+ "name": "Contract",
+ "owner": "Administrator",
+ "standard": 1,
+ "title": "Contract"
+}
