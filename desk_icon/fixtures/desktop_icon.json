@@ -35,12 +35,12 @@
   "link_to": "Social Media",
   "link_type": "Workspace Sidebar",
   "logo_url": null,
-  "modified": "2026-10-22 10:25:24.568592",
+  "modified": "2026-10-23 14:55:33.444891",
   "name": "Social Media",
   "parent_icon": null,
   "restrict_removal": 0,
   "roles": [],
-  "sidebar": null,
+  "sidebar": "",
   "standard": 1
  },
  {

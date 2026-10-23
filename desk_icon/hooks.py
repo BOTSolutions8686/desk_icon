@@ -24,16 +24,12 @@ app_license = "mit"
 
 fixtures = [
     {
-        "dt": "Desktop Icon",
-        "filters": [
-            ["name", "in", ["Contract", "Marketing", "Social Media"]]
-        ],
+        "dt": "Workspace Sidebar",
+        "filters": [["name", "in", ["Contract", "Marketing", "Social Media"]]],
     },
     {
-        "dt": "Workspace Sidebar",
-        "filters": [
-            ["name", "in", ["Contract", "Marketing", "Social Media"]]
-        ],
+        "dt": "Desktop Icon",
+        "filters": [["name", "in", ["Contract", "Marketing", "Social Media"]]],
     },
 ]
 # Includes in <head>
